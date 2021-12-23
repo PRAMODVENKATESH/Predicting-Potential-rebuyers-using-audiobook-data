@@ -18,4 +18,4 @@ Early stopping included to avoid overv fitting.
 
 Metrics: Accuracy
 
->>The predicted on test dataset resulted in an accuracy of 80.13
+>>The prediction on test dataset resulted in an accuracy of 80.13
